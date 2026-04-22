@@ -135,32 +135,6 @@ These results may help inform prevention strategies, especially those focused on
 - **Environment:** RStudio
 - **Methods:** Decision Trees, Bagging, Random Forest, Boosting
 
-## Suggested Repository Structure
-
-```bash
-.
-├── data/
-│   └── youth_data.csv
-├── scripts/
-│   ├── binary_classification.R
-│   ├── multiclass_classification.R
-│   └── regression_model.R
-├── outputs/
-│   ├── plots/
-│   └── model_results/
-└── README.md   
-```
-
-## How to Run
-
-1. Open the project in **RStudio**
-2. Load the required packages
-3. Place the cleaned dataset in the `data/` folder
-4. Run the scripts for:
-   - **binary classification**
-   - **multi-class classification**
-   - **regression**
-5. Review model outputs, plots, and evaluation metrics
 
 ## Acknowledgments
 
